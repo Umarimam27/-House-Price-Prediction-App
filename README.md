@@ -32,7 +32,7 @@ Loads the pre-trained lr_model.pkl.
 Implements the Streamlit layout with prediction inputs and model performance metrics.
 
 Contains the advanced set_cinematic_bg function to handle the Base64 image upload and CSS slideshow logic.
-<img width="1919" height="868" alt="image" src="https://github.com/user-attachments/assets/62417bf8-99e2-4cad-8288-f5efab5c2041" />
+
 
 
 https://github.com/user-attachments/assets/17f62ed5-d973-46d5-b871-81c0cbd0971d
