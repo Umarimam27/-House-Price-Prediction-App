@@ -37,6 +37,9 @@ Contains the advanced set_cinematic_bg function to handle the Base64 image uploa
 
 https://github.com/user-attachments/assets/4588bad3-71fe-4598-8e63-ccfac8f6c3f6
 
+<img width="1903" height="874" alt="image" src="https://github.com/user-attachments/assets/ab421999-9d54-4e34-ac8f-aec425653b53" />
+
+
 
 
 
