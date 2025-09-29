@@ -35,8 +35,6 @@ Contains the advanced set_cinematic_bg function to handle the Base64 image uploa
 
 
 
-https://github.com/user-attachments/assets/17f62ed5-d973-46d5-b871-81c0cbd0971d
-
 
 
 
